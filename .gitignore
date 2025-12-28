@@ -1,5 +1,7 @@
 /Build/
-/Cache/
+/.cache/
+/.unsaved/
+/.user/
 /Metadata/
 /.banks/
 /*.bank
