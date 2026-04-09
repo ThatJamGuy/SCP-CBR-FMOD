@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2fac5786-8b11-41a0-b6e6-7d8cf106a2c9}">
+		<property name="assetPath">
+			<value>Music/rBreach/rBreach - Intro.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>64.361609977324264</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
+		</relationship>
+	</object>
+</objects>

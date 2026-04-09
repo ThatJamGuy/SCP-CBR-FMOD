@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7d61ef4f-517f-45b8-b9b7-d9579e545caa}">
+		<property name="assetPath">
+			<value>SFX/Room/Intro/Commotion/Commotion13.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.194</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
+		</relationship>
+	</object>
+</objects>
