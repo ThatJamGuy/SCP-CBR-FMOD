@@ -1,7 +1,5 @@
-/Build/
+# Ignore unnecessary folders in the FMOD Studio project
 /.cache/
 /.unsaved/
 /.user/
-/Metadata/
-/.banks/
-/*.bank
+EventList.csv
