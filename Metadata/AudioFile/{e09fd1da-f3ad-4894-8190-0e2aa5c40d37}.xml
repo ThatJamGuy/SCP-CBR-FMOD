@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e09fd1da-f3ad-4894-8190-0e2aa5c40d37}">
 		<property name="assetPath">
-			<value>SFX/SCP/173/StatueTension04.ogg</value>
+			<value>SFX_CB/SCP/173/StatueTension04.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

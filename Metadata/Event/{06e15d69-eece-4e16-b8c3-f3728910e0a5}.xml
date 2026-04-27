@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{06e15d69-eece-4e16-b8c3-f3728910e0a5}">
 		<property name="name">
-			<value>AmbientHits_Zone1</value>
+			<value>AmbientHits_LCZ</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

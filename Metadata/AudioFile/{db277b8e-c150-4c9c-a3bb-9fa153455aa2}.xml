@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{db277b8e-c150-4c9c-a3bb-9fa153455aa2}">
 		<property name="assetPath">
-			<value>SFX/Alarm/Alarm3.ogg</value>
+			<value>SFX_CB/Alarm/Alarm3.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

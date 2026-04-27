@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d533219d-b741-4117-ac01-87b0e4266567}">
 		<property name="assetPath">
-			<value>SFX/Step/Run/RunMetal6.ogg</value>
+			<value>SFX_CB/Step/Run/RunMetal6.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

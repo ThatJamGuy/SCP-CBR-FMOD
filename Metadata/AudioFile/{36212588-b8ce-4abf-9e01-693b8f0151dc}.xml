@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{36212588-b8ce-4abf-9e01-693b8f0151dc}">
 		<property name="assetPath">
-			<value>SFX/General/Elevator/Beep.ogg</value>
+			<value>SFX_CB/General/Elevator/Beep.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

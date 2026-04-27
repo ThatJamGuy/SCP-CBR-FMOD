@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{cb3d6392-a27e-4328-ac8c-38ff8b1f9fee}">
 		<property name="assetPath">
-			<value>SFX/SCP/106/106ChaseEnd.ogg</value>
+			<value>SFX_CB/SCP/106/106ChaseEnd.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

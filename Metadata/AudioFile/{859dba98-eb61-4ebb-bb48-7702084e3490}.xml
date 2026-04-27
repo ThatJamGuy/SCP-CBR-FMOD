@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{859dba98-eb61-4ebb-bb48-7702084e3490}">
 		<property name="assetPath">
-			<value>SFX/Horror/Horror14.ogg</value>
+			<value>SFX_CB/Horror/Horror14.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

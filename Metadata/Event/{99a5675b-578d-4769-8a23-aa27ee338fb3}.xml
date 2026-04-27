@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{99a5675b-578d-4769-8a23-aa27ee338fb3}">
 		<property name="name">
-			<value>AirConditioner</value>
+			<value>airconditioner_loop</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{996be836-b87e-489c-ad87-30140e2c906d}</destination>
+			<destination>{f3ec2c50-0beb-47a2-ba54-5062bd925eeb}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{cdc159ff-921a-40aa-a056-4491008d4908}</destination>

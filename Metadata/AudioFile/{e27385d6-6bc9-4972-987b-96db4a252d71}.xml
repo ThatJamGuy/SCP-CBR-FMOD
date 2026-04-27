@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e27385d6-6bc9-4972-987b-96db4a252d71}">
 		<property name="assetPath">
-			<value>SFX/General/LightFlicker.mp3</value>
+			<value>SFX_CB/General/LightFlicker.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

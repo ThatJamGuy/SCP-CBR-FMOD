@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{97ce9515-f000-4f71-b1a8-855aaaf42a1a}">
 		<property name="assetPath">
-			<value>SFX/Ambient/Room Ambience/LightFlickerLoop.ogg</value>
+			<value>SFX_CB/Ambient/Room Ambience/LightFlickerLoop.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

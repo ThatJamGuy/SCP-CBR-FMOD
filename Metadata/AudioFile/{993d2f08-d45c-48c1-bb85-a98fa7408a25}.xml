@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{993d2f08-d45c-48c1-bb85-a98fa7408a25}">
 		<property name="assetPath">
-			<value>SFX/Alarm/Alarm2.ogg</value>
+			<value>SFX_CB/Alarm/Alarm2.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

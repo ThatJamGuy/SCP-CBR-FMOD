@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7b166d7a-7cd2-42b0-8ffe-299219c56f7c}">
 		<property name="name">
-			<value>ElectricityHum</value>
+			<value>electricityhum_loop</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{996be836-b87e-489c-ad87-30140e2c906d}</destination>
+			<destination>{f3ec2c50-0beb-47a2-ba54-5062bd925eeb}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{5414725d-926e-4dd5-bfad-c4e28a77b728}</destination>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1e482cd0-7bdc-47c7-821b-53aa68770c1d}">
 		<property name="assetPath">
-			<value>SFX/SCP/106/pd_player_die3.ogg</value>
+			<value>SFX_CB/SCP/106/pd_player_die3.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

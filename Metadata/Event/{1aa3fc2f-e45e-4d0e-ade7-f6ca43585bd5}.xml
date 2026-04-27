@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1aa3fc2f-e45e-4d0e-ade7-f6ca43585bd5}">
 		<property name="name">
-			<value>ElectricitySparks</value>
+			<value>electricitysparks_oneshot</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{65287d1a-4713-4a90-87b8-799edb25a938}</destination>
+			<destination>{fa281c0e-65f0-4bca-82a0-2115ecde043e}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{54a56e3d-8e9b-40f8-bced-3e23fdc42d3f}</destination>

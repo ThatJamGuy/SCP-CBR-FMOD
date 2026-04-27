@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{fbf8d8e3-b694-4031-ae39-3d4aa5bd4739}">
 		<property name="assetPath">
-			<value>SFX/Interact/OldButton.ogg</value>
+			<value>SFX_CB/Interact/OldButton.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

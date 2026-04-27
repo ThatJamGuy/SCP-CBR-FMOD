@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8c5949d3-ac95-4434-b65f-adda47408eba}">
 		<property name="assetPath">
-			<value>SFX/Ambient/Room Ambience/AirConditioner.ogg</value>
+			<value>SFX_CB/Ambient/Room Ambience/AirConditioner.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

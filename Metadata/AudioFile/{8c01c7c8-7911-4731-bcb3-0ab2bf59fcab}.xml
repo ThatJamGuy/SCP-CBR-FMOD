@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8c01c7c8-7911-4731-bcb3-0ab2bf59fcab}">
 		<property name="assetPath">
-			<value>SFX/Ambient/Room Ambience/Ventilation.ogg</value>
+			<value>SFX_CB/Ambient/Room Ambience/Ventilation.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

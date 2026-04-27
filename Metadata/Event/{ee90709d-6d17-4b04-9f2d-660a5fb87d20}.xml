@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ee90709d-6d17-4b04-9f2d-660a5fb87d20}">
 		<property name="name">
-			<value>LightFlicker01</value>
+			<value>lightflicker_01_loop</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{996be836-b87e-489c-ad87-30140e2c906d}</destination>
+			<destination>{f3ec2c50-0beb-47a2-ba54-5062bd925eeb}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{f9e22eff-fee3-47f6-9684-bc14e47a09d9}</destination>

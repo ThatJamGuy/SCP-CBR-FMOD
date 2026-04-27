@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{0c71c349-0b6d-48b7-a38d-3fb508ab3a52}">
 		<property name="assetPath">
-			<value>SFX/SCP/106/EmergeStep.ogg</value>
+			<value>SFX_CB/SCP/106/EmergeStep.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{cbbc7a0a-cd7a-471f-92a9-a5c580505d41}">
 		<property name="assetPath">
-			<value>SFX/SCP/106/Decay2.ogg</value>
+			<value>SFX_CB/SCP/106/Decay2.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

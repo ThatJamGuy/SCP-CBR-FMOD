@@ -82,6 +82,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{5ca4c2ba-28b9-43c3-a2e5-335432a4293f}">
+		<property name="volume">
+			<value>-2.5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{3f9660f7-c0e8-4eae-b3db-442db7b9e410}</destination>
 		</relationship>
@@ -105,6 +108,9 @@
 		<property name="timelockedOffset">
 			<value>0.020999999999999991</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{2f9fadbb-dab8-4db1-accd-3a577d70cd3b}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{fbf8d8e3-b694-4031-ae39-3d4aa5bd4739}</destination>
 		</relationship>
@@ -127,6 +133,9 @@
 		<property name="length">
 			<value>0.20981859410430839</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{fa8712e9-d724-4e36-b68b-392258b58b51}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{aeb23763-81f2-483a-aa8d-310332320ea5}</destination>
 		</relationship>
@@ -156,12 +165,28 @@
 	</object>
 	<object class="MixerBusPanner" id="{7f405460-c83d-4321-8105-de623fcd5904}" />
 	<object class="MixerBusFader" id="{f0b90206-2c5d-4dd6-8c4a-c5ae314863c7}" />
+	<object class="RandomizerModulator" id="{2f9fadbb-dab8-4db1-accd-3a577d70cd3b}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>2.5</value>
+		</property>
+	</object>
 	<object class="MixerBusEffectChain" id="{f129dcb9-0125-47aa-b5d0-b8bd696b7f8d}">
 		<relationship name="effects">
 			<destination>{6f4ee77c-3ced-4aa4-83a7-ec7ac462e8e6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{17668ca6-13ad-4d8e-8723-73f8ef47ec14}" />
+	<object class="RandomizerModulator" id="{fa8712e9-d724-4e36-b68b-392258b58b51}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>5</value>
+		</property>
+	</object>
 	<object class="MixerBusEffectChain" id="{eef2a73c-1326-41a1-b5a5-10f0b08e99e4}">
 		<relationship name="effects">
 			<destination>{e10c799d-1e58-4c3e-93da-dc44357d4ddb}</destination>

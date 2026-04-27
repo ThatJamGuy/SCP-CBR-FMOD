@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{fb067687-2cde-40a6-a829-2e720f9150c3}">
 		<property name="name">
-			<value>Amb_LCZ</value>
+			<value>Soundscape_LCZ</value>
 		</property>
 		<property name="outputFormat">
 			<value>5</value>

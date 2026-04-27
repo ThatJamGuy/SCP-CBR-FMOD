@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{73d0bc76-f7d4-416b-ae48-c9e7e8e951f6}">
 		<property name="assetPath">
-			<value>SFX/SCP/173/NeckSnap1.ogg</value>
+			<value>SFX_CB/SCP/173/NeckSnap1.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

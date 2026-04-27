@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1d35bff2-73d5-4c84-aaf3-a7af892f63d7}">
 		<property name="assetPath">
-			<value>SFX/Ambient/Room Ambience/LightFlicker01.ogg</value>
+			<value>SFX_CB/Ambient/Room Ambience/LightFlicker01.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

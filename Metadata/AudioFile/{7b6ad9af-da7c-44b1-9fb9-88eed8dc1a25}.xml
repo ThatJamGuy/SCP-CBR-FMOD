@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{7b6ad9af-da7c-44b1-9fb9-88eed8dc1a25}">
 		<property name="assetPath">
-			<value>SFX/Radio/RadioMessageReady.ogg</value>
+			<value>SFX_CB/Radio/RadioMessageReady.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

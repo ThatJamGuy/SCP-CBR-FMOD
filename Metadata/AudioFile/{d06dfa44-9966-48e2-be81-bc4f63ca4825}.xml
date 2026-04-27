@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{d06dfa44-9966-48e2-be81-bc4f63ca4825}">
 		<property name="assetPath">
-			<value>SFX/Door/OfficeDoor/OfficeDoorOpen0.ogg</value>
+			<value>SFX_CB/Door/OfficeDoor/OfficeDoorOpen0.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

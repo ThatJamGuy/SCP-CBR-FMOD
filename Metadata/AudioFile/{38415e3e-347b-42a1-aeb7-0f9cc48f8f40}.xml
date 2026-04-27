@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{38415e3e-347b-42a1-aeb7-0f9cc48f8f40}">
 		<property name="assetPath">
-			<value>SFX/Room/Intro/Commotion/Commotion14.ogg</value>
+			<value>SFX_CB/Room/Intro/Commotion/Commotion14.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>

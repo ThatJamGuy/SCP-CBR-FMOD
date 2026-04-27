@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{59bfb7c0-04ca-4976-9382-ddc8f27f9d1d}">
 		<property name="assetPath">
-			<value>SFX/Room/Tesla/</value>
+			<value>SFX_CB/Room/Tesla/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>

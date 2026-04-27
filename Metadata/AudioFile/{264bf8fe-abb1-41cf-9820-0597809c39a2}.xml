@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{264bf8fe-abb1-41cf-9820-0597809c39a2}">
 		<property name="assetPath">
-			<value>SFX/SCP/106/Decay0.ogg</value>
+			<value>SFX_CB/SCP/106/Decay0.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
