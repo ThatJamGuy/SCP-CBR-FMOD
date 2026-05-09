@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{f10a0099-4a96-4de5-81e2-ddc30d7ddf03}">
 		<property name="assetPath">
-			<value>SFX_CB/SCP/173/StatueTension03.ogg</value>
+			<value>SFX_New/SCP/173/tense_neo_02.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

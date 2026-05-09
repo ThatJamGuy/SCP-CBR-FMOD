@@ -57,7 +57,11 @@
 			<destination>{7da0381f-1c49-4c06-bb57-08f932539ec8}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{1200030c-9167-4862-9a05-d7e1244c72d1}" />
+	<object class="EventAutomatableProperties" id="{1200030c-9167-4862-9a05-d7e1244c72d1}">
+		<property name="priority">
+			<value>3</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{b83f3c40-9dda-4203-a549-6da54a640345}" />
 	<object class="GroupTrack" id="{117e71a0-e5f4-4025-b431-66b60339b4f5}">
 		<relationship name="modules">
@@ -161,6 +165,7 @@
 		<relationship name="effects">
 			<destination>{6d7bc7af-938d-48da-a322-8795705c70e6}</destination>
 			<destination>{1e6a0f6b-a674-4856-8581-02da9bbacbb1}</destination>
+			<destination>{f367750a-2a1c-44d8-a008-45453ef23540}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{7f405460-c83d-4321-8105-de623fcd5904}" />
@@ -184,7 +189,7 @@
 			<value>pitch</value>
 		</property>
 		<property name="amount">
-			<value>5</value>
+			<value>2.5</value>
 		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{eef2a73c-1326-41a1-b5a5-10f0b08e99e4}">
@@ -195,6 +200,7 @@
 	<object class="MixerBusPanner" id="{0ba5288c-7efc-4f27-8356-99dfdc5f9281}" />
 	<object class="MixerBusFader" id="{6d7bc7af-938d-48da-a322-8795705c70e6}" />
 	<object class="SpatialiserEffect" id="{1e6a0f6b-a674-4856-8581-02da9bbacbb1}" />
+	<object class="SFXReverbEffect" id="{f367750a-2a1c-44d8-a008-45453ef23540}" />
 	<object class="MixerBusFader" id="{6f4ee77c-3ced-4aa4-83a7-ec7ac462e8e6}" />
 	<object class="MixerBusFader" id="{e10c799d-1e58-4c3e-93da-dc44357d4ddb}" />
 </objects>

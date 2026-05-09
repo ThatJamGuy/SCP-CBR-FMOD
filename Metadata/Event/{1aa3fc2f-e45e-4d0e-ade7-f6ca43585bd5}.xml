@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1aa3fc2f-e45e-4d0e-ade7-f6ca43585bd5}">
 		<property name="name">
-			<value>electricitysparks_oneshot</value>
+			<value>ElectritySpark_OneShot</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -110,6 +110,7 @@
 			<destination>{f8d0a145-1892-4105-bc66-d283552448a6}</destination>
 			<destination>{c672ffaa-51f7-4b4b-af55-77716cac5a49}</destination>
 			<destination>{db26a85b-d159-4708-b5e0-ce8ad62c691a}</destination>
+			<destination>{96420598-d66f-4db9-8877-aa4f2663d4d4}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d40051ef-f5ed-40e1-b7a6-3fce293fda8c}" />
@@ -130,6 +131,26 @@
 		<relationship name="automators">
 			<destination>{dd955d54-6e86-4fda-a8f6-3890c61e3124}</destination>
 		</relationship>
+	</object>
+	<object class="SFXReverbEffect" id="{96420598-d66f-4db9-8877-aa4f2663d4d4}">
+		<property name="earlyDelay">
+			<value>7</value>
+		</property>
+		<property name="lateDelay">
+			<value>11</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>83</value>
+		</property>
+		<property name="highCut">
+			<value>14500</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>96</value>
+		</property>
+		<property name="wetLevel">
+			<value>-8</value>
+		</property>
 	</object>
 	<object class="SingleSound" id="{2c21d840-fea4-462e-8af6-fe463d0ce0f1}">
 		<relationship name="audioFile">

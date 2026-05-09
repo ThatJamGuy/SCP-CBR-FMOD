@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8f2d2df4-50df-406e-a777-9633be2252f0}">
 		<property name="assetPath">
-			<value>SFX_CB/Character/D9341/FabricSettle01.ogg</value>
+			<value>SFX_New/Character/D9341/frabric_settle.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

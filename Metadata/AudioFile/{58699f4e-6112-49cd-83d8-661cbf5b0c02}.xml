@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{58699f4e-6112-49cd-83d8-661cbf5b0c02}">
 		<property name="assetPath">
-			<value>SFX_CB/Character/D9341/PlayerDeathStinger.ogg</value>
+			<value>SFX_New/Horror/death_stinger.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
