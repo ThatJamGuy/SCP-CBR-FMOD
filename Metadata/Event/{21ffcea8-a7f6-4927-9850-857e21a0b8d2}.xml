@@ -54,7 +54,7 @@
 			<destination>{714c65a3-ea9a-42c3-adba-a34d08f3297b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{eccc753f-a4a6-44e4-bf0c-d3555f26aaee}</destination>
+			<destination>{de1f9e87-a2f4-4905-ac6d-27c0b4ec068e}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{4124369f-2194-4958-8fd0-290b8bba56b2}">
@@ -358,7 +358,10 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>-10</value>
+		</property>
+		<property name="curveShape">
+			<value>1</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{427b0cd4-ab93-43b4-9b67-51614ab5e98e}">
