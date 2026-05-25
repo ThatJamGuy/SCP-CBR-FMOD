@@ -129,6 +129,9 @@
 		<property name="start">
 			<value>2</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{0e669608-b1c9-49a7-8d9a-b788b65a751c}</destination>
+		</relationship>
 		<relationship name="parameters">
 			<destination>{10d54686-5cc1-45a0-a6cf-abefda87d367}</destination>
 		</relationship>
@@ -197,6 +200,20 @@
 		<relationship name="parameter">
 			<destination>{fbf85fc9-0a2b-4f05-a297-51b3bafc2f75}</destination>
 		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{0e669608-b1c9-49a7-8d9a-b788b65a751c}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="releaseTime">
+			<value>10000</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
 	</object>
 	<object class="ParameterProperty" id="{10d54686-5cc1-45a0-a6cf-abefda87d367}">
 		<relationship name="parameter">

@@ -114,6 +114,7 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="name" />
 		<relationship name="modulators">
 			<destination>{bd488a70-898f-4957-bbe4-55ef9e9b8acc}</destination>
 		</relationship>
