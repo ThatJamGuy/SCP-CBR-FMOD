@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{937a277b-4fb2-4b97-a531-f2b3e0fefd86}">
 		<property name="assetPath">
-			<value>Music/Revival/CBR - The Dread.ogg</value>
+			<value>Music/Revival/CBR - LCZ.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

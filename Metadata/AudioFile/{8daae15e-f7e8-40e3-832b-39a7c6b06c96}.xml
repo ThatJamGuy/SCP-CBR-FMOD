@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8daae15e-f7e8-40e3-832b-39a7c6b06c96}">
 		<property name="assetPath">
-			<value>Music/Global/173_AltTheme_01.ogg</value>
+			<value>Music/Global/scp_173_altmusic.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

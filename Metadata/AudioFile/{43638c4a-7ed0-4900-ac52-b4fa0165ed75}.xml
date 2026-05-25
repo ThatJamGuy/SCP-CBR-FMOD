@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{43638c4a-7ed0-4900-ac52-b4fa0165ed75}">
 		<property name="assetPath">
-			<value>SFX_CB/Interact/Beep14.wav</value>
+			<value>SFX_New/Interact/Beeps/beep_14.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
