@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{479c727b-b3fa-4bbe-89d7-c2616abb2ee4}">
+		<property name="name">
+			<value>CurrentTrack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{dbfc9de4-f252-43a2-bdbb-fe88d51c6606}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6cf66938-ec0a-47f2-8092-7c4c2e679107}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6cf66938-ec0a-47f2-8092-7c4c2e679107}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Menu</value>
+			<value>LCZ</value>
+			<value>SL</value>
+			<value>SCP__106</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

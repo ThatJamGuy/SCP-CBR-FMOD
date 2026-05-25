@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{40ff27dd-7a34-47b9-9002-dd861f6568bb}">
 		<property name="assetPath">
-			<value>Music/Global/PD_Repetance.ogg</value>
+			<value>Music/Global/pd_repentance.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{6fb31944-f29f-405d-8f61-30d13d1155ef}">
 		<property name="assetPath">
-			<value>Music/Global/LCZ_BreachStart.ogg</value>
+			<value>Music/Global/lcz_breachhorror.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
