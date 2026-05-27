@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8651fe35-06ca-4dce-ae2c-021f3f762a97}">
+		<property name="assetPath">
+			<value>SFX_New/Alarms/alarm_07_start.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5491156462585034</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
+		</relationship>
+	</object>
+</objects>
