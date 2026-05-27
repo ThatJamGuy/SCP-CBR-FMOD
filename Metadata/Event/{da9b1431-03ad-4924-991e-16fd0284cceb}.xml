@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{da9b1431-03ad-4924-991e-16fd0284cceb}">
 		<property name="name">
-			<value>Pick_Item_C</value>
+			<value>Pick_Item_Equipable</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -56,7 +56,7 @@
 			<destination>{c8cfe986-c5a6-4b94-b194-ba05ca847ffa}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{eccc753f-a4a6-44e4-bf0c-d3555f26aaee}</destination>
+			<destination>{221fcd30-2ca0-49ed-ba0f-70bba76b6cef}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{77975958-5465-4e82-89d2-fedee87199dd}" />
@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{f75320cf-1611-4550-bf74-fd5ae88c3d8a}">
+		<property name="volume">
+			<value>-5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{ab879e1b-bc38-4222-93a3-9558b5ebe86e}</destination>
 		</relationship>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{a3e3eaa7-2ae2-4ad7-94b7-ee1a9e9b28a8}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="assetPath">
 			<value>SFX_New/</value>
 		</property>
