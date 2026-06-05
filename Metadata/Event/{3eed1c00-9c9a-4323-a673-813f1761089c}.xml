@@ -59,6 +59,7 @@
 		<relationship name="modules">
 			<destination>{54973406-99ce-4764-8eb3-f5d22bbb9d1a}</destination>
 			<destination>{67e1dd2e-809a-4ca0-b803-a22c234b4bee}</destination>
+			<destination>{b0479f9c-eabf-4432-8d5a-549ad7db4bf7}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{20a5b333-eaf1-4fbf-9a80-e90b1abdfdec}</destination>
@@ -73,6 +74,7 @@
 		<relationship name="modules">
 			<destination>{54973406-99ce-4764-8eb3-f5d22bbb9d1a}</destination>
 			<destination>{67e1dd2e-809a-4ca0-b803-a22c234b4bee}</destination>
+			<destination>{b0479f9c-eabf-4432-8d5a-549ad7db4bf7}</destination>
 		</relationship>
 		<relationship name="preset">
 			<destination>{a60be3cc-16bb-4e25-9152-ac2d09864397}</destination>
@@ -115,6 +117,20 @@
 		</relationship>
 		<relationship name="event">
 			<destination>{fbf2d666-aaeb-468a-bb09-40e70c975b16}</destination>
+		</relationship>
+	</object>
+	<object class="EventSound" id="{b0479f9c-eabf-4432-8d5a-549ad7db4bf7}">
+		<property name="start">
+			<value>2</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{9a5921ef-50e3-4d87-9a56-62a24a9fa81a}</destination>
+		</relationship>
+		<relationship name="parameters">
+			<destination>{f1245f27-3492-42f2-88d0-b99be0d7cff2}</destination>
+		</relationship>
+		<relationship name="event">
+			<destination>{2ab6553f-f24f-4a7c-97a1-5846427205c5}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{20a5b333-eaf1-4fbf-9a80-e90b1abdfdec}">
@@ -170,6 +186,25 @@
 		<property name="finalValue">
 			<value>-80</value>
 		</property>
+	</object>
+	<object class="ADSRModulator" id="{9a5921ef-50e3-4d87-9a56-62a24a9fa81a}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="releaseTime">
+			<value>5000</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
+	</object>
+	<object class="ParameterProperty" id="{f1245f27-3492-42f2-88d0-b99be0d7cff2}">
+		<relationship name="parameter">
+			<destination>{d2f5b9f6-cdcd-42b1-bd6b-adfbbdd6c7c6}</destination>
+		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{c094940c-5ba8-4c2d-837a-1348069c104f}">
 		<relationship name="effects">
