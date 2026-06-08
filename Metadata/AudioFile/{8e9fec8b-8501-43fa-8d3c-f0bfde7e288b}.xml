@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8e9fec8b-8501-43fa-8d3c-f0bfde7e288b}">
 		<property name="assetPath">
-			<value>SFX_CB/Character/D9341/AutoBlinkCue.ogg</value>
+			<value>SFX_New/Character/D9341/AutoBlinkCue.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
