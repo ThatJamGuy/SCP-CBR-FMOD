@@ -16,11 +16,12 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>7</value>
+			<value>8</value>
 		</property>
 		<property name="enumerationLabels">
 			<value>Menu</value>
 			<value>LCZ</value>
+			<value>HCZ</value>
 			<value>SL</value>
 			<value>SCP_106</value>
 			<value>SCP_049</value>

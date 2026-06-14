@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4543b4b3-1fad-4b0a-9848-1742099253fd}">
 		<property name="assetPath">
-			<value>SFX_CB/Room/Tesla/TeslaIdleLoop.wav</value>
+			<value>SFX_New/Machines/Tesla/TeslaIdleLoop.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

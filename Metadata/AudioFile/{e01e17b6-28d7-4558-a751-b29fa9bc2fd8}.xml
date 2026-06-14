@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e01e17b6-28d7-4558-a751-b29fa9bc2fd8}">
 		<property name="assetPath">
-			<value>SFX_CB/Room/Tesla/TeslaWindup.wav</value>
+			<value>SFX_New/Machines/Tesla/TeslaWindup.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
