@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{a0ae4230-f2dc-46db-aa48-9448899953ea}">
+	<object class="AudioFile" id="{48b248f3-ff21-45b7-8b06-842349a9503a}">
 		<property name="assetPath">
-			<value>Music/Revival/CBR - 049_Tense.ogg</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>SFX_CB/Character/Guard/Ulgrin/EscortPissedOff1.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>31.517868480725625</value>
+			<value>5.979002267573696</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{a318d4a0-2318-4c62-b6e5-7c60746c8e92}">
+		<property name="name">
+			<value>ulgrinPissedLevel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{dbfc9de4-f252-43a2-bdbb-fe88d51c6606}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{22338eac-9047-4564-8c40-70078d9aad3b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{22338eac-9047-4564-8c40-70078d9aad3b}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
