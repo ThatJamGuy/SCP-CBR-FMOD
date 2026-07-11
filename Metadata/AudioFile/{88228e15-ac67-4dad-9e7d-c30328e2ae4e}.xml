@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{88228e15-ac67-4dad-9e7d-c30328e2ae4e}">
 		<property name="assetPath">
-			<value>SFX_New/Machines/Tesla/TeslaShock2.ogg</value>
+			<value>SFX_New/Machines/Tesla/tesla_shock2.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
