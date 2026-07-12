@@ -101,6 +101,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{7b6981cd-e0ef-44e1-8201-f718f40b8e0b}" />
 	<object class="EventSound" id="{65a37219-f270-4e2d-a2f2-cb162970e244}">
+		<property name="name" />
 		<relationship name="modulators">
 			<destination>{ae1ca923-cc60-4131-a48b-475f21722b21}</destination>
 		</relationship>
