@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{51c18107-ae08-4aec-a80b-6c1ea8b64455}">
 		<property name="name">
-			<value>049_Revival</value>
+			<value>096_Revival</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -107,7 +107,6 @@
 		<property name="start">
 			<value>1</value>
 		</property>
-		<property name="name" />
 		<relationship name="modulators">
 			<destination>{601e0426-e16c-4b35-94c5-e52791aac621}</destination>
 		</relationship>
