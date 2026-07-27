@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{4dcec7e0-16ef-49f9-be54-e2627d430f0b}">
+	<object class="AudioFile" id="{57380067-859d-4d85-8185-1c010a601bf6}">
 		<property name="assetPath">
-			<value>SFX_New/Character/Guard/guardmusic_01.ogg</value>
+			<value>SFX_New/Character/Guard/guardmusic2.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>25.600000000000001</value>
+			<value>30</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
