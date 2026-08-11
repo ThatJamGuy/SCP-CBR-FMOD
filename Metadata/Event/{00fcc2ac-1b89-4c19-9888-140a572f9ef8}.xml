@@ -425,6 +425,9 @@
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
 		</property>
+		<relationship name="automationCurves">
+			<destination>{5102eb9a-3fad-4c22-9151-11405cbcccdd}</destination>
+		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{8796badf-18f4-4cff-a535-65b06d8c345e}">
 		<relationship name="effects">
@@ -461,6 +464,15 @@
 	</object>
 	<object class="MixerBusPanner" id="{0f1cde35-f923-4ed8-825c-5c9f3018a65d}" />
 	<object class="MixerBusFader" id="{9d46735f-00bd-4983-a121-f3bb9db996f6}" />
+	<object class="AutomationCurve" id="{5102eb9a-3fad-4c22-9151-11405cbcccdd}">
+		<relationship name="parameter">
+			<destination>{8798add5-8ead-42b7-b6d6-2537bb6d0d0a}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{2ada334a-e99c-488b-921f-6c3bd4d20f37}</destination>
+			<destination>{3f61cf78-3bc7-4c0a-8c90-68e91f703c0d}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{5337e0c1-4d86-4539-9117-a4bcf8bc7314}" />
 	<object class="AutomationCurve" id="{49e0cba4-116e-4173-af98-9cb06f172480}">
 		<relationship name="parameter">
@@ -482,6 +494,22 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{0c0b9ee6-b59f-4bbb-bc9a-e5c34ca3a023}" />
+	<object class="AutomationPoint" id="{2ada334a-e99c-488b-921f-6c3bd4d20f37}">
+		<property name="position">
+			<value>20</value>
+		</property>
+		<property name="value">
+			<value>-80</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{3f61cf78-3bc7-4c0a-8c90-68e91f703c0d}">
+		<property name="position">
+			<value>10</value>
+		</property>
+		<property name="value">
+			<value>-10</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{31f03086-a904-4b3a-b8d1-8976db20dde2}">
 		<property name="position">
 			<value>0</value>
@@ -506,7 +534,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-5</value>
+			<value>0</value>
 		</property>
 		<property name="curveShape">
 			<value>0.446385473</value>
@@ -517,7 +545,7 @@
 			<value>10</value>
 		</property>
 		<property name="value">
-			<value>-80</value>
+			<value>-53.3333321</value>
 		</property>
 	</object>
 </objects>
