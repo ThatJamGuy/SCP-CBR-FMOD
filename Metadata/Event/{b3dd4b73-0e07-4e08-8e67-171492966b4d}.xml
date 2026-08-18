@@ -5,7 +5,7 @@
 			<value>Soundscape_Intro</value>
 		</property>
 		<property name="outputFormat">
-			<value>5</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{c1a4e726-01eb-4e77-83e4-48c4f8e99174}</destination>
@@ -136,6 +136,7 @@
 	<object class="MixerBusEffectChain" id="{dfdccac5-9711-4b2d-bc8b-14d3d6a54de3}">
 		<relationship name="effects">
 			<destination>{b1528f46-51c1-428b-8375-0c51666aa15b}</destination>
+			<destination>{ad2023a7-8889-45bb-a26f-30560d0d1ab4}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{74eac3cb-9cf7-49b9-8e45-2e630c4c051b}" />
@@ -155,6 +156,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{98993d48-6943-417e-b022-057c62540c7c}" />
 	<object class="MixerBusFader" id="{b1528f46-51c1-428b-8375-0c51666aa15b}" />
+	<object class="SpatialiserEffect" id="{ad2023a7-8889-45bb-a26f-30560d0d1ab4}" />
 	<object class="EventSound" id="{c1535c17-ef61-45b3-a405-8d6b7e51ba48}">
 		<relationship name="event">
 			<destination>{36ee258a-b967-43ff-a81e-a3ab96c43653}</destination>
