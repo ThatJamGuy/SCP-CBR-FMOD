@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8898f550-ed5a-41ad-b93e-52b846f4a19f}">
 		<property name="name">
-			<value>StatueHorrorFar</value>
+			<value>Horror_173Far</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -110,11 +110,17 @@
 	<object class="MixerBusFader" id="{f317c95a-7bd0-41a6-84a8-f48ef2b3e5c6}" />
 	<object class="MixerBusFader" id="{d215750e-95a5-4345-8bf0-98d81906632d}" />
 	<object class="SingleSound" id="{e5cc5ded-1b8a-41f6-adc9-da5d6be6830d}">
+		<property name="pitch">
+			<value>-5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{153d1032-5709-4a6c-ba84-d52f5bdfd921}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{5f48dc16-527f-4670-9e15-2d4817e3ec4b}">
+		<property name="pitch">
+			<value>-5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{2bd68cbd-f025-47e5-816c-0e1617c7d15e}</destination>
 		</relationship>
