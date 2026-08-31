@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4c7224d4-2596-4d22-9cef-1e1c6d852310}">
 		<property name="name">
-			<value>Ulgrin_EscortFinishedA</value>
+			<value>Ulgrin_EscortFinished</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -61,7 +61,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{7a031d8c-784c-4893-916e-a7096e27a8b2}">
 		<property name="maximumDistance">
-			<value>10</value>
+			<value>15</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{28ce8bae-ac07-405d-a3db-4d34995494d1}" />
@@ -110,6 +110,7 @@
 			<destination>{5621817d-6ffd-4f29-9295-ba6479611f0b}</destination>
 			<destination>{8c87ca2f-1e52-4706-9a88-39ff610174b6}</destination>
 			<destination>{c32a43ed-cfd9-4362-a23f-ca256d0c6faf}</destination>
+			<destination>{602fabcc-919a-4d75-ac1b-ab89ad6a29fd}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{afa56b30-d6b9-4f7b-9b04-c188add12dd3}" />
@@ -148,6 +149,11 @@
 	<object class="SingleSound" id="{c32a43ed-cfd9-4362-a23f-ca256d0c6faf}">
 		<relationship name="audioFile">
 			<destination>{554bdfc2-5be4-423a-9e47-29ba9252a5c6}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{602fabcc-919a-4d75-ac1b-ab89ad6a29fd}">
+		<relationship name="audioFile">
+			<destination>{5b2b73a5-8c4f-4d75-85a5-5e0872de3da8}</destination>
 		</relationship>
 	</object>
 </objects>

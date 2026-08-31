@@ -59,7 +59,11 @@
 			<destination>{de1f9e87-a2f4-4905-ac6d-27c0b4ec068e}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{73817de7-f74d-4223-82aa-8e8fc69dd3cc}" />
+	<object class="EventAutomatableProperties" id="{73817de7-f74d-4223-82aa-8e8fc69dd3cc}">
+		<property name="priority">
+			<value>0</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{68c0455b-9eff-4bd2-8572-86b509512afb}" />
 	<object class="Timeline" id="{3f8d040d-52ae-47f6-83e6-c34bcdcb8633}">
 		<property name="isProxyEnabled">
@@ -72,6 +76,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{fa2121bc-7075-4bd1-a98f-d09fbb3d6923}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{0426ab83-66b2-465b-8c5b-220094baa609}</destination>
 		</relationship>
