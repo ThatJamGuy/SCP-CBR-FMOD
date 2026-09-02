@@ -58,7 +58,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{ffa33cc1-663e-4d09-9360-a9b899a51b1f}">
 		<property name="maximumDistance">
-			<value>15</value>
+			<value>10</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{b1683792-d1a6-44bb-8829-541b08a9eff9}" />
