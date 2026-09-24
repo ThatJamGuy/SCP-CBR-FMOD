@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{96f1bdeb-9968-4032-be2a-b60b948a92ed}">
 		<property name="assetPath">
-			<value>Music/Revival/CBR - 914_Reveal2.ogg</value>
+			<value>Music/Revival/CBR - 914_Reveal.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
