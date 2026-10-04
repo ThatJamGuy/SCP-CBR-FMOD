@@ -246,6 +246,9 @@
 	<object class="MixerBusPanner" id="{089c1541-2ebc-4801-8310-a6676f6609a5}" />
 	<object class="MixerBusFader" id="{81db21cf-fe57-42a4-be92-5940c66a3536}" />
 	<object class="SpatialiserEffect" id="{9acf4db8-03ee-4087-b7b1-a013f0d8cdbf}">
+		<property name="distanceRolloffType">
+			<value>1</value>
+		</property>
 		<relationship name="automators">
 			<destination>{f233b916-a293-4eb6-8735-0983bfe3feac}</destination>
 		</relationship>
@@ -316,7 +319,7 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>-1</value>
+			<value>-0.41412583</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{6fe3260e-3dad-458c-b16e-0d92bdc4c3d8}">
