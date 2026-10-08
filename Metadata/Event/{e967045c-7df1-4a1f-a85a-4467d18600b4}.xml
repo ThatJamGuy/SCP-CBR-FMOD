@@ -83,6 +83,7 @@
 			<destination>{4356af00-34c5-4bab-8dd2-07e2fd3cbe78}</destination>
 			<destination>{2996872c-a121-427a-8322-cce7f676b9d4}</destination>
 			<destination>{0d66cc67-2ff3-470e-91fb-481edfc0a748}</destination>
+			<destination>{132d3ac1-6196-4d6f-8e4a-4685f8180e78}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{84ac6438-c682-4e67-a134-7507ca0abee3}</destination>
@@ -105,6 +106,7 @@
 			<destination>{4356af00-34c5-4bab-8dd2-07e2fd3cbe78}</destination>
 			<destination>{2996872c-a121-427a-8322-cce7f676b9d4}</destination>
 			<destination>{0d66cc67-2ff3-470e-91fb-481edfc0a748}</destination>
+			<destination>{132d3ac1-6196-4d6f-8e4a-4685f8180e78}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{6663b47d-e47b-4f36-88ec-7ff4e850c242}</destination>
@@ -119,6 +121,7 @@
 			<destination>{71b4f26a-9420-4292-b192-581e6a77c0fe}</destination>
 			<destination>{9ab9dc91-3fe9-483a-a6e3-51389457d42a}</destination>
 			<destination>{7aacf34a-2c77-4bfc-8c5d-0a0c5e3c4f76}</destination>
+			<destination>{a80003b8-d50b-480e-9c94-500a1ff15842}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{578cc689-2537-4933-b58c-ae08026f8826}">
@@ -147,6 +150,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{4b95db61-3881-4bd0-8282-a4479ef24974}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -314,9 +320,17 @@
 			<destination>{f50d5bdc-74ae-48c8-987a-6cb4b9013194}</destination>
 		</relationship>
 	</object>
+	<object class="SingleSound" id="{132d3ac1-6196-4d6f-8e4a-4685f8180e78}">
+		<property name="length">
+			<value>3.3214285714285716</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{f50d5bdc-74ae-48c8-987a-6cb4b9013194}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerGroup" id="{84ac6438-c682-4e67-a134-7507ca0abee3}">
 		<property name="volume">
-			<value>-6</value>
+			<value>-5</value>
 		</property>
 		<property name="name">
 			<value>Audio 2</value>
@@ -488,6 +502,20 @@
 	<object class="NamedMarker" id="{7aacf34a-2c77-4bfc-8c5d-0a0c5e3c4f76}">
 		<property name="position">
 			<value>134.84976587022328</value>
+		</property>
+		<property name="name">
+			<value>Shake_Small</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{bcd9eb0d-d3de-48ae-96d7-004ccb3cde26}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{733c19eb-5e53-43e3-baa4-13c0c71fef55}</destination>
+		</relationship>
+	</object>
+	<object class="NamedMarker" id="{a80003b8-d50b-480e-9c94-500a1ff15842}">
+		<property name="position">
+			<value>22.800000000000001</value>
 		</property>
 		<property name="name">
 			<value>Shake_Small</value>

@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ab1a5b1e-6837-477d-a88c-e3e8fd15ec76}">
 		<property name="name">
-			<value>Horror_ChamberC</value>
+			<value>Stinger_ChamberC</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{882bac97-2258-488a-8273-e471c478d2b8}</destination>
+			<destination>{57e1f109-299c-4353-a2ae-f865d35856fe}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{911934d8-f3a2-4fe1-81f8-e4fe3fdb71f6}</destination>
