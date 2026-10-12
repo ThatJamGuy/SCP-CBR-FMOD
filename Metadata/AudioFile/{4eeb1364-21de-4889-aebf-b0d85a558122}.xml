@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{47bacd58-dc24-45cf-8a8b-5d1048fee659}">
+	<object class="AudioFile" id="{4eeb1364-21de-4889-aebf-b0d85a558122}">
 		<property name="assetPath">
 			<value>Music/Revival/CBR - Intro.ogg</value>
 		</property>
@@ -8,13 +8,13 @@
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>89.142857142857139</value>
+			<value>120.05877083333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>

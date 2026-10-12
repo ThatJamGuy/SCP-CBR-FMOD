@@ -118,6 +118,7 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="name" />
 		<relationship name="event">
 			<destination>{813dd7a7-b9bb-4956-86a8-a5b908c3b254}</destination>
 		</relationship>

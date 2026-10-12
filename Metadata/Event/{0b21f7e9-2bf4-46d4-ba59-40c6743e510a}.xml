@@ -243,6 +243,9 @@
 		<relationship name="modulators">
 			<destination>{2b9f1f1b-33ba-45fd-a655-26c58c10ca4a}</destination>
 		</relationship>
+		<relationship name="parameters">
+			<destination>{338f795e-66cd-4a6a-bb51-9e134cea3f0f}</destination>
+		</relationship>
 		<relationship name="event">
 			<destination>{30e5a697-2f4e-4188-b5bd-e5e579a805ba}</destination>
 		</relationship>
@@ -489,6 +492,11 @@
 		<property name="finalValue">
 			<value>-80</value>
 		</property>
+	</object>
+	<object class="ParameterProperty" id="{338f795e-66cd-4a6a-bb51-9e134cea3f0f}">
+		<relationship name="parameter">
+			<destination>{70a6d23f-ffef-4dcb-b91c-f3775e05e4d2}</destination>
+		</relationship>
 	</object>
 	<object class="ADSRModulator" id="{cbd41d98-95f0-4b16-a021-0adbd3dbd60b}">
 		<property name="nameOfPropertyBeingModulated">
