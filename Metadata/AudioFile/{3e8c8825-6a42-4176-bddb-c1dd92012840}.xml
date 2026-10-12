@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{4cde14aa-62b5-4e0a-8a5e-1be88b74c370}">
+	<object class="AudioFile" id="{3e8c8825-6a42-4176-bddb-c1dd92012840}">
 		<property name="assetPath">
-			<value>Music/Global/enter_chamber4.ogg</value>
+			<value>Music/Global/enter_chamber_5.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>81.084083333333339</value>
+			<value>15.169083333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
