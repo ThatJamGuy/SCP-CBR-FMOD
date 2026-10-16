@@ -515,7 +515,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>5</value>
 		</property>
 		<property name="curveShape">
 			<value>0.00837501884</value>
@@ -534,7 +534,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>-10</value>
 		</property>
 		<property name="curveShape">
 			<value>0.446385473</value>
