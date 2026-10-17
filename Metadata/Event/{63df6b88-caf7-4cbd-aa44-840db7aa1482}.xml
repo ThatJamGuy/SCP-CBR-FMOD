@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{63df6b88-caf7-4cbd-aa44-840db7aa1482}">
 		<property name="name">
-			<value>Alarm</value>
+			<value>Alarm_CB</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -93,7 +93,10 @@
 	<object class="MixerBusPanner" id="{1d95f682-3b7a-4c31-8e69-d51fefa1d214}" />
 	<object class="SingleSound" id="{df22eb97-ac39-421e-97b5-d735f89df415}">
 		<property name="length">
-			<value>2.7225396825396824</value>
+			<value>2.8844303165794654</value>
+		</property>
+		<property name="pitch">
+			<value>-1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{a0487b94-31b6-4298-8cef-cc43a3516e78}</destination>
@@ -118,7 +121,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>2.7225396825396824</value>
+			<value>2.8844303165794654</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{bf671c19-b4ac-4c6b-817a-aeec209ba1fc}</destination>
@@ -131,6 +134,7 @@
 		<relationship name="effects">
 			<destination>{73ca4902-1d95-4e57-8835-6d461176ce6c}</destination>
 			<destination>{b5e6b289-1baf-49eb-b5b3-2e2001a68034}</destination>
+			<destination>{11417eab-aae3-4451-ba49-70cd48fdd352}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3159afce-3a2c-4dd3-b396-8983d29d2ce5}" />
@@ -143,5 +147,25 @@
 	<object class="MixerBusPanner" id="{462405bb-75d2-44e4-b433-07357d205f92}" />
 	<object class="MixerBusFader" id="{73ca4902-1d95-4e57-8835-6d461176ce6c}" />
 	<object class="SpatialiserEffect" id="{b5e6b289-1baf-49eb-b5b3-2e2001a68034}" />
+	<object class="SFXReverbEffect" id="{11417eab-aae3-4451-ba49-70cd48fdd352}">
+		<property name="earlyDelay">
+			<value>7</value>
+		</property>
+		<property name="lateDelay">
+			<value>11</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>83</value>
+		</property>
+		<property name="highCut">
+			<value>14500</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>96</value>
+		</property>
+		<property name="wetLevel">
+			<value>-8</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{acf2a71d-5fd2-4deb-b352-5e9363ef1d99}" />
 </objects>

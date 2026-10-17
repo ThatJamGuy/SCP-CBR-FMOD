@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c33b1627-a9a2-49f1-a211-8a40a9122d93}">
 		<property name="name">
-			<value>Alarm2_IntroSkip</value>
+			<value>Alarm2_IntroSkip_CB</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -790,7 +790,7 @@
 	</object>
 	<object class="AutomationPoint" id="{2f546989-070c-4774-a786-8d8130027fde}">
 		<property name="position">
-			<value>6</value>
+			<value>6.5</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -798,7 +798,7 @@
 	</object>
 	<object class="AutomationPoint" id="{b594703a-1e07-444b-a64c-423d4cfe800c}">
 		<property name="position">
-			<value>4</value>
+			<value>4.5</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
@@ -820,7 +820,7 @@
 	</object>
 	<object class="AutomationPoint" id="{a2e78817-0960-4482-b2d5-373019ffa271}">
 		<property name="position">
-			<value>6</value>
+			<value>6.5</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -828,7 +828,7 @@
 	</object>
 	<object class="AutomationPoint" id="{4ee80e42-ce80-48fc-b846-7b7f3d4719d0}">
 		<property name="position">
-			<value>3.9722124197477022</value>
+			<value>4.5</value>
 		</property>
 		<property name="value">
 			<value>-80</value>

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{34b11003-c1e0-40fd-80e8-7e3189e93b08}">
+	<object class="AudioFile" id="{aeb10f6a-0248-42e3-847a-da6bc404ed5a}">
 		<property name="assetPath">
-			<value>Music/Revival/CBR - Chamber2.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>SFX_New/Horror/horror_07.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>22.044625</value>
+			<value>8.8547708333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
