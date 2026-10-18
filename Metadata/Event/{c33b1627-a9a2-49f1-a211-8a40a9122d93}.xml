@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c33b1627-a9a2-49f1-a211-8a40a9122d93}">
 		<property name="name">
-			<value>Alarm2_IntroSkip_CB</value>
+			<value>Alarm2_IntroSkip</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{63df6b88-caf7-4cbd-aa44-840db7aa1482}">
 		<property name="name">
-			<value>Alarm_CB</value>
+			<value>Alarm</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -93,10 +93,7 @@
 	<object class="MixerBusPanner" id="{1d95f682-3b7a-4c31-8e69-d51fefa1d214}" />
 	<object class="SingleSound" id="{df22eb97-ac39-421e-97b5-d735f89df415}">
 		<property name="length">
-			<value>2.8844303165794654</value>
-		</property>
-		<property name="pitch">
-			<value>-1</value>
+			<value>2.7225396825396824</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{a0487b94-31b6-4298-8cef-cc43a3516e78}</destination>
@@ -121,7 +118,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>2.8844303165794654</value>
+			<value>2.7225396825396824</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{bf671c19-b4ac-4c6b-817a-aeec209ba1fc}</destination>
