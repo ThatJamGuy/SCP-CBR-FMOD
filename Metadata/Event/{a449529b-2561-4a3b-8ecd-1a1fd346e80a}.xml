@@ -98,9 +98,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{e56b1305-78eb-46c8-af6d-ae16f0681da6}">
-		<property name="volume">
-			<value>3</value>
-		</property>
 		<property name="name">
 			<value>Loop Track</value>
 		</property>

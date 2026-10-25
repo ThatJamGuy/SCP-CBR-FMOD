@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{34cefe15-cc34-4c9b-b238-2c104676f818}">
+	<object class="ParameterPreset" id="{8d9eff93-e169-46e4-9f00-90cbb5508566}">
 		<property name="name">
-			<value>CurrentZone</value>
+			<value>LocalEventIndex</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dbfc9de4-f252-43a2-bdbb-fe88d51c6606}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{c8617787-de58-4942-a058-473861252476}</destination>
+			<destination>{2c98172e-5840-418b-ab68-8acc7b7290e9}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{c8617787-de58-4942-a058-473861252476}">
+	<object class="GameParameter" id="{2c98172e-5840-418b-ab68-8acc7b7290e9}">
 		<property name="parameterType">
 			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>4</value>
+			<value>11</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
