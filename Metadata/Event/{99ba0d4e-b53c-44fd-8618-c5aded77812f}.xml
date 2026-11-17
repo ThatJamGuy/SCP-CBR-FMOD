@@ -59,7 +59,14 @@
 			<destination>{de1f9e87-a2f4-4905-ac6d-27c0b4ec068e}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{02827f63-e855-4b3c-99ac-98124c7c1848}" />
+	<object class="EventAutomatableProperties" id="{02827f63-e855-4b3c-99ac-98124c7c1848}">
+		<property name="priority">
+			<value>3</value>
+		</property>
+		<property name="maximumDistance">
+			<value>30</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{d962dafb-4d9e-40e2-9df7-3531738c5ae9}" />
 	<object class="Timeline" id="{6ab5b8fe-c727-449c-83fb-cfae664e0574}">
 		<property name="isProxyEnabled">
@@ -72,6 +79,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{fada017d-97d7-4e1c-bb30-3e5e73cd475b}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{8b292755-a6da-4b11-a137-bfd57671d8c8}</destination>
 		</relationship>
@@ -97,6 +107,7 @@
 		<relationship name="effects">
 			<destination>{c2059a69-3f3f-4b01-afae-1f3bd4dab285}</destination>
 			<destination>{62f130a0-7e39-4ed1-91b9-2075eb7ef727}</destination>
+			<destination>{320f508b-9e92-4249-a5b9-8eb1fd292d98}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{819a4fe8-2b0a-4821-b8b6-b8a169ebb3fb}" />
@@ -112,6 +123,26 @@
 	<object class="MixerBusFader" id="{e54e3e1f-09d6-4a8e-8e5f-b5234014d2c7}" />
 	<object class="MixerBusFader" id="{c2059a69-3f3f-4b01-afae-1f3bd4dab285}" />
 	<object class="SpatialiserEffect" id="{62f130a0-7e39-4ed1-91b9-2075eb7ef727}" />
+	<object class="SFXReverbEffect" id="{320f508b-9e92-4249-a5b9-8eb1fd292d98}">
+		<property name="earlyDelay">
+			<value>7</value>
+		</property>
+		<property name="lateDelay">
+			<value>11</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>59</value>
+		</property>
+		<property name="highCut">
+			<value>7800</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>87</value>
+		</property>
+		<property name="wetLevel">
+			<value>-5.5</value>
+		</property>
+	</object>
 	<object class="RandomizerModulator" id="{a353971a-b32a-4d4d-806a-ce4c5118850d}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>
