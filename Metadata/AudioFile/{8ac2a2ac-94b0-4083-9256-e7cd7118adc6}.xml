@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{4d78252f-7081-4cbe-86bb-9f06d22f2ef4}">
+	<object class="AudioFile" id="{8ac2a2ac-94b0-4083-9256-e7cd7118adc6}">
 		<property name="assetPath">
-			<value>SFX_CB/Room/Intro/173Vent.ogg</value>
+			<value>SFX_New/SCP/173/173_creak_03.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>7.3839455782312928</value>
+			<value>8.2259637188208625</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>

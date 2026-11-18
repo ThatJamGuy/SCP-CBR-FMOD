@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{27578f7d-ba34-4c56-a651-9c5fada3da9e}">
+	<object class="AudioFile" id="{6acc593c-60d4-4aee-ab36-d6cfb9a6fb3b}">
 		<property name="assetPath">
-			<value>SFX_CB/Room/Intro/Bang1.ogg</value>
+			<value>SFX_CB/Door/door_open_fast.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>2.6122448979591835</value>
+			<value>4.9990702947845804</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
