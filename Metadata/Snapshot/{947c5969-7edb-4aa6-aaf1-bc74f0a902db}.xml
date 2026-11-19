@@ -26,6 +26,7 @@
 			<destination>{4db97ff6-ad67-48ee-9282-9924a896349f}</destination>
 			<destination>{384fd9bb-8b39-4591-8966-c6e584585ba4}</destination>
 			<destination>{83fa1e48-079b-4b32-804b-b0447fd3cfeb}</destination>
+			<destination>{659d0961-2014-4484-86d8-d7d7e143cc4f}</destination>
 		</relationship>
 		<relationship name="snapshotTracks">
 			<destination>{bf22dda8-d9a9-4638-abe1-6deaba17b6a8}</destination>
@@ -40,7 +41,7 @@
 			<value>decayTime</value>
 		</property>
 		<property name="value">
-			<value>16000</value>
+			<value>9500</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{7ef086c5-7078-4784-b3bf-f492e38a1db0}</destination>
@@ -51,7 +52,7 @@
 			<value>diffusion</value>
 		</property>
 		<property name="value">
-			<value>100</value>
+			<value>78</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{7ef086c5-7078-4784-b3bf-f492e38a1db0}</destination>
@@ -62,7 +63,18 @@
 			<value>earlyLateMix</value>
 		</property>
 		<property name="value">
-			<value>41</value>
+			<value>32</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{7ef086c5-7078-4784-b3bf-f492e38a1db0}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{659d0961-2014-4484-86d8-d7d7e143cc4f}">
+		<property name="propertyName">
+			<value>HFDecayRatio</value>
+		</property>
+		<property name="value">
+			<value>25.5</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{7ef086c5-7078-4784-b3bf-f492e38a1db0}</destination>
