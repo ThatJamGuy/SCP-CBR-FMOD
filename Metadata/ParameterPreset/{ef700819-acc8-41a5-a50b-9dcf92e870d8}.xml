@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{ef700819-acc8-41a5-a50b-9dcf92e870d8}">
 		<property name="name">
-			<value>Reverb Types</value>
+			<value>ReverbTypes</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dbfc9de4-f252-43a2-bdbb-fe88d51c6606}</destination>
@@ -16,15 +16,16 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>3</value>
+			<value>4</value>
 		</property>
 		<property name="enumerationLabels">
+			<value>None</value>
 			<value>Slight</value>
 			<value>Heavy</value>
 			<value>Metallic</value>
 		</property>
 		<property name="initialValue">
-			<value>0</value>
+			<value>1</value>
 		</property>
 	</object>
 </objects>
