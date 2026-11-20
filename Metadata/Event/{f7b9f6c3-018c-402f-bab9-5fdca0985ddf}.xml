@@ -75,6 +75,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{64203025-847f-4035-b7ba-137b75e1c127}">
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{17ec1b6e-b979-46c9-bf68-0fc5dddba4c3}</destination>
 		</relationship>
@@ -123,6 +126,9 @@
 		<property name="length">
 			<value>30.857142857142858</value>
 		</property>
+		<property name="triggerProbabilityEnabled">
+			<value>true</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{1f8459fa-e0af-45db-876c-f26fb223390c}</destination>
 		</relationship>
@@ -135,7 +141,25 @@
 			<value>volume</value>
 		</property>
 		<property name="initialValue">
-			<value>-80</value>
+			<value>-15.5</value>
+		</property>
+		<property name="attackTime">
+			<value>1600</value>
+		</property>
+		<property name="attackShape">
+			<value>-0.19975014</value>
+		</property>
+		<property name="holdTime">
+			<value>1600</value>
+		</property>
+		<property name="decayTime">
+			<value>2000</value>
+		</property>
+		<property name="releaseTime">
+			<value>2600</value>
+		</property>
+		<property name="releaseShape">
+			<value>0.456475109</value>
 		</property>
 		<property name="finalValue">
 			<value>-80</value>

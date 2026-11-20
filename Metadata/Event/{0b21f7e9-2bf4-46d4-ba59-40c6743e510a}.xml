@@ -200,6 +200,9 @@
 		<property name="start">
 			<value>9</value>
 		</property>
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{78d58da6-6892-4462-80ab-16977cc1b5e4}</destination>
 		</relationship>
@@ -213,6 +216,9 @@
 	<object class="EventSound" id="{33d66f67-17f5-4633-a859-89fd2445f879}">
 		<property name="start">
 			<value>3</value>
+		</property>
+		<property name="volume">
+			<value>-6</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{359259c2-3d97-421d-8362-d58b09adeb6a}</destination>
@@ -266,6 +272,9 @@
 	<object class="EventSound" id="{1e6f7932-5227-4551-88eb-645424089be1}">
 		<property name="start">
 			<value>2</value>
+		</property>
+		<property name="volume">
+			<value>-6</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{c9931a7e-e7b2-4d7a-8e7a-755639ce1b13}</destination>
