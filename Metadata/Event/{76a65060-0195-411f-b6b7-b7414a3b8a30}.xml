@@ -93,13 +93,13 @@
 			<value>5000</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>10000</value>
+			<value>8500</value>
 		</property>
 		<property name="minimumScatterDistance">
-			<value>10</value>
+			<value>9</value>
 		</property>
 		<property name="maximumScatterDistance">
-			<value>15</value>
+			<value>10</value>
 		</property>
 		<relationship name="sound">
 			<destination>{90f30ad8-ab1a-4ba9-8645-b8e0299e624d}</destination>
@@ -145,7 +145,6 @@
 			<value>1</value>
 		</property>
 		<relationship name="sounds">
-			<destination>{be4002c7-5df1-4c4a-9a40-9da4fee0ae01}</destination>
 			<destination>{9dd60496-de9d-4eac-9e30-741e87bd4559}</destination>
 			<destination>{dbc19fc2-f992-417b-b8f7-98458d20bd74}</destination>
 		</relationship>
@@ -157,11 +156,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{b9482313-72cf-436a-afde-cd6e82ab55aa}" />
 	<object class="MixerBusFader" id="{5a4a9070-a531-4a3a-ae4d-083a2a12b3a6}" />
-	<object class="EventSound" id="{be4002c7-5df1-4c4a-9a40-9da4fee0ae01}">
-		<relationship name="event">
-			<destination>{6227c0a8-e7f1-4520-8f94-7711c4600ac8}</destination>
-		</relationship>
-	</object>
 	<object class="EventSound" id="{9dd60496-de9d-4eac-9e30-741e87bd4559}">
 		<relationship name="event">
 			<destination>{ae0816e7-80c5-49f8-a939-34062af95ab2}</destination>
