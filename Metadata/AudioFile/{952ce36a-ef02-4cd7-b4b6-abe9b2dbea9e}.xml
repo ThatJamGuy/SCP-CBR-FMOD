@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{e2958907-5503-40f1-b73d-339ce9286ae3}">
+	<object class="AudioFile" id="{952ce36a-ef02-4cd7-b4b6-abe9b2dbea9e}">
 		<property name="assetPath">
-			<value>SFX_New/Interact/button_press_b.wav</value>
+			<value>SFX_New/General/activate_big_b.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.3933560090702948</value>
+			<value>2.4661875000000002</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{7b2dd6fc-f8ed-4427-8760-ef9756351166}">
+	<object class="AudioFile" id="{82b27142-bf1e-44ae-ac9c-1daa8366b5e6}">
 		<property name="assetPath">
-			<value>SFX_New/Interact/lever_flipped_d.ogg</value>
+			<value>SFX_New/General/activate_big_a.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.8794557823129252</value>
+			<value>2.8983750000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>

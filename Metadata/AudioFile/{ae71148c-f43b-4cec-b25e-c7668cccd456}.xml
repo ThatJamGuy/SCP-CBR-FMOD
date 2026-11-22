@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ae71148c-f43b-4cec-b25e-c7668cccd456}">
 		<property name="assetPath">
-			<value>SFX_New/Interact/lever_flipped_a.ogg</value>
+			<value>SFX_New/Interact/lever_flipped_01.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
