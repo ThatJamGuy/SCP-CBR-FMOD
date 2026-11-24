@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{5de5532e-b673-4937-8470-71b5c70a36a5}">
 		<property name="assetPath">
-			<value>SFX_New/Radio/scripted_skev.ogg</value>
+			<value>SFX_New/Character/Skev/scripted_skev.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

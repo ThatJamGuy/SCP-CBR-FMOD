@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8f8a2620-96e0-4c91-951d-5468dc0e0671}">
 		<property name="assetPath">
-			<value>SFX_New/Radio/jamgoober_postmortem.wav</value>
+			<value>SFX_New/Character/jamgoober_postmortem.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

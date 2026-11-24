@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{315b442d-e7b6-45f9-bf06-b39f2cd5197b}">
 		<property name="assetPath">
-			<value>SFX_New/Radio/scripted_jam_01.ogg</value>
+			<value>SFX_New/Character/Jam/scripted_jam_01.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

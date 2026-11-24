@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{1c24b98a-c3c3-4750-b2b7-e698adbed6eb}">
+	<object class="AudioFile" id="{e58d4ba9-34cd-4c65-8321-060190f0ba2b}">
 		<property name="assetPath">
-			<value>406261__anthousai__hit-glass-window-01.wav</value>
+			<value>SFX_New/Alarms/alarm_11a.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>96</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.6498333333333333</value>
+			<value>5.4642857142857144</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
