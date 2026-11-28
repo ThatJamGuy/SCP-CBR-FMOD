@@ -167,7 +167,6 @@
 		<relationship name="effects">
 			<destination>{81db21cf-fe57-42a4-be92-5940c66a3536}</destination>
 			<destination>{9acf4db8-03ee-4087-b7b1-a013f0d8cdbf}</destination>
-			<destination>{dace4c55-a647-4752-90b6-ccb7af30c208}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0e398926-7269-48a1-92f1-893570b38f90}" />
@@ -252,26 +251,6 @@
 		<relationship name="automators">
 			<destination>{f233b916-a293-4eb6-8735-0983bfe3feac}</destination>
 		</relationship>
-	</object>
-	<object class="SFXReverbEffect" id="{dace4c55-a647-4752-90b6-ccb7af30c208}">
-		<property name="earlyDelay">
-			<value>7</value>
-		</property>
-		<property name="lateDelay">
-			<value>11</value>
-		</property>
-		<property name="HFDecayRatio">
-			<value>59</value>
-		</property>
-		<property name="highCut">
-			<value>7800</value>
-		</property>
-		<property name="earlyLateMix">
-			<value>87</value>
-		</property>
-		<property name="wetLevel">
-			<value>-5.5</value>
-		</property>
 	</object>
 	<object class="MixerBusFader" id="{5ae3b4d0-693c-4728-840a-ace65f76f92f}" />
 	<object class="AutomationPoint" id="{9cc96893-407b-4f1c-80d8-36c3bf0b7965}">

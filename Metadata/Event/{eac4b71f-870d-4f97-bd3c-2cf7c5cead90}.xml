@@ -101,7 +101,6 @@
 		<relationship name="effects">
 			<destination>{c8d2a8d9-1323-4f8b-b1b0-39f9977df0b4}</destination>
 			<destination>{3fe345e7-fcd2-47e1-8098-535c29b96095}</destination>
-			<destination>{98220c4a-dd6c-44b1-88c5-7af0998b45e5}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{a6ae7618-6f21-4413-bbd5-f92fc830fe05}" />
@@ -119,26 +118,6 @@
 	<object class="SpatialiserEffect" id="{3fe345e7-fcd2-47e1-8098-535c29b96095}">
 		<property name="distanceRolloffType">
 			<value>1</value>
-		</property>
-	</object>
-	<object class="SFXReverbEffect" id="{98220c4a-dd6c-44b1-88c5-7af0998b45e5}">
-		<property name="earlyDelay">
-			<value>7</value>
-		</property>
-		<property name="lateDelay">
-			<value>11</value>
-		</property>
-		<property name="HFDecayRatio">
-			<value>83</value>
-		</property>
-		<property name="highCut">
-			<value>14500</value>
-		</property>
-		<property name="earlyLateMix">
-			<value>96</value>
-		</property>
-		<property name="wetLevel">
-			<value>-8</value>
 		</property>
 	</object>
 	<object class="SingleSound" id="{a7a21910-27c7-4606-8a9f-cdf2f58dc05a}">

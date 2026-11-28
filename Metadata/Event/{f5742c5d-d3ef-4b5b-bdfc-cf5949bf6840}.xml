@@ -173,7 +173,6 @@
 			<destination>{ec259987-2cda-4579-9d85-f93a1d2bdea6}</destination>
 			<destination>{e386bdcc-f7fd-41a4-ac41-2503f03c55e2}</destination>
 			<destination>{f439bf37-a261-43c7-b263-792f81920456}</destination>
-			<destination>{7cd22c26-fdb0-49a5-9451-5b0af994f67b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5c2235b6-d711-4e18-877a-8a6c76a9e9bb}" />
@@ -275,26 +274,6 @@
 	<object class="ThreeEQEffect" id="{f439bf37-a261-43c7-b263-792f81920456}">
 		<property name="lowGain">
 			<value>6</value>
-		</property>
-	</object>
-	<object class="SFXReverbEffect" id="{7cd22c26-fdb0-49a5-9451-5b0af994f67b}">
-		<property name="earlyDelay">
-			<value>7</value>
-		</property>
-		<property name="lateDelay">
-			<value>11</value>
-		</property>
-		<property name="HFDecayRatio">
-			<value>59</value>
-		</property>
-		<property name="highCut">
-			<value>7800</value>
-		</property>
-		<property name="earlyLateMix">
-			<value>87</value>
-		</property>
-		<property name="wetLevel">
-			<value>-5.5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{b7581a10-79b7-4e2f-8bf8-8bd43a41ae81}" />

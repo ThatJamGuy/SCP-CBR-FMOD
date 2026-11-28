@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c90da84c-400e-41c9-a2db-53c3de5eedb4}">
+		<property name="assetPath">
+			<value>SFX_New/Machines/Door/SteelDoor/steel_door_close_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.7734920634920637</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bb207cbb-91a3-438a-8739-c083dc59e2e5}</destination>
+		</relationship>
+	</object>
+</objects>

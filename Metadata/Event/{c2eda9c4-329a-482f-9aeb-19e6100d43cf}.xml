@@ -121,7 +121,6 @@
 		<relationship name="effects">
 			<destination>{095d1db2-e34f-437d-8a60-4b6d9dcd7e24}</destination>
 			<destination>{36a567f7-069c-420e-ad7e-dbc521e1b8d7}</destination>
-			<destination>{bd163114-387f-41f3-9504-bdef12a993f7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{38654240-7d6c-49d9-9cde-b41342e00e73}" />
@@ -136,26 +135,6 @@
 	<object class="SpatialiserEffect" id="{36a567f7-069c-420e-ad7e-dbc521e1b8d7}">
 		<property name="distanceRolloffType">
 			<value>1</value>
-		</property>
-	</object>
-	<object class="SFXReverbEffect" id="{bd163114-387f-41f3-9504-bdef12a993f7}">
-		<property name="earlyDelay">
-			<value>7</value>
-		</property>
-		<property name="lateDelay">
-			<value>11</value>
-		</property>
-		<property name="HFDecayRatio">
-			<value>59</value>
-		</property>
-		<property name="highCut">
-			<value>7800</value>
-		</property>
-		<property name="earlyLateMix">
-			<value>87</value>
-		</property>
-		<property name="wetLevel">
-			<value>-5.5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{e2f5af4e-d6b4-4e7c-a36f-6b60e233f973}" />
